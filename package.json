@@ -1,0 +1,26 @@
+{
+  "name": "cosmousenet",
+  "version": "1.0.0",
+  "description": "Website of Philip Ross Lutton Parker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmouse/cosmousenet.git"
+  },
+  "keywords": [
+    "mouse",
+    "vision",
+    "neuroscience",
+    "philip",
+    "parker"
+  ],
+  "author": "Philip Parker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosmouse/cosmousenet/issues"
+  },
+  "homepage": "https://github.com/cosmouse/cosmousenet#readme"
+}
