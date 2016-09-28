@@ -1,3 +1,80 @@
-html {
-  color: blue;
+html, body {
+	font-family: sans-serif;
+	color: #777777;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+}
+
+h1 {
+	text-align: left;
+	font-size: 3rem;
+}
+
+p {
+	max-width: 65%;
+	min-width: 500px;
+}
+
+h2 {
+	text-align: left;
+	font-size: 2rem;
+}
+
+h3 {
+	text-align: left;
+	font-size: 1.5rem;
+}
+
+div {
+	padding-left: 10px;
+}
+
+.header {
+	background-image: url(../img/cosmouse.png);
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-size: 888px 212px;
+}
+
+.container {
+	display: flex;
+	position: relative;
+	padding-top: 35px;
+	left: 0px;
+}
+
+.main {
+	padding-right: 30%;
+}
+
+.nav {
+	background-color: #072960;
+	max-width: 15%;
+}
+
+.nav h1 {
+	position: relative;
+  padding-left: 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FF0000;
+}
+
+a:active {
+    text-decoration: none;
+    color: #FF0000;
 }
